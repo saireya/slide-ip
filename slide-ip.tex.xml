@@ -5,17 +5,17 @@
 <s h="知的財産権">
 <frame title="\insertsection">
 <block title="知的財産権">
-人間の知的活動により生み出された<em>知的財産</em>に与えられる権利
+人間の知的活動により生み出された<alert>知的財産</alert>に与えられる権利
 <ul>
-	<li><alert>著作権</alert>: <em>表現</em>を保護(著作権法)</li>
 	<li><alert>特許権、実用新案権</alert>: <em>アイデア(発明)</em>を保護(特許法、実用新案法)</li>
-	<li><alert>意匠権</alert>: <em>デザイン</em>を保護(意匠法)</li>
+	<li><alert><ruby r="いしょう">意匠</ruby>権</alert>: <em>デザイン</em>を保護(意匠法)</li>
 	<li><alert>商標権</alert>: <em>ロゴマーク</em>を保護(商標法)</li>
+	<li><alert>著作権</alert>: <em>表現</em>を保護(著作権法)</li>
 	<li mark="※">著作権以外は、特許庁が判断・管理</li>
 </ul>
 </block>
 
-<img src="slide-ip-ipod.svg" scale=".5" title="iPod nano(5th)" n="fig:ipod"/>
+<img src="frixion.svg" scale=".5"/>
 </frame>
 
 <frame title="\insertsection">
@@ -44,7 +44,7 @@
 </block>
 </frame>
 
-<frame title="\insertsection">
+<!--<frame title="\insertsection">
 <block title="新規性・進歩性" class="example">
 ↓のキャラクター、萌えますか?
 </block>
@@ -68,7 +68,7 @@
 
 <frame title="\insertsection">
 <img src="slide-ip-imamoe2.jpg" scale=".25" title="いまいち萌えない娘(全身)" n="fig:imamoe2"/>
-</frame>
+</frame>-->
 
 
 </s>
@@ -78,7 +78,6 @@
 <ul>
 	<li>著作権法・特許法などの知財法は、権利者と利用者の間にある<em>trade-off関係</em>を調整している</li>
 	<li>こうしたtrade-off関係が生じるのは、現代を生きる人びとの<em>価値観が多様</em>(機能的分化社会)だから</li>
-	<li><alert>成果メディアは、人々の間で異なる価値観を調整し、社会が円滑に進むよう統制</alert>する</li>
 </ul>
 </block>
 </frame>

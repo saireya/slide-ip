@@ -26,4 +26,25 @@
 	<url>http://www.amazon.co.jp/dp/B002OB3FJ6</url>
 </misc></entry>
 
+<entry id="frixion"><misc>
+	<author>PILOT</author>
+	<title>こすると消えるフリクション</title>
+	<url>http://frixion.jp/</url>
+</misc></entry>
+
+<entry id="frixion-d"><article>
+	<author>株式会社パイロットコーポレーション</author>
+	<title>意匠登録第1276099号</title>
+</article></entry>
+
+<entry id="frixion-tm"><article>
+	<author>株式会社パイロットコーポレーション</author>
+	<title>商標登録第4911337号</title>
+</article></entry>
+
+<entry id="frixion-patent"><article>
+	<author>パイロットインキ株式会社</author>
+	<title>特開2005-88308</title>
+</article></entry>
+
 </file>
