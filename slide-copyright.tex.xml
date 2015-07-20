@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
-<?xml-stylesheet type="text/xsl" href="../../../texml2html.xsl"?>
+<?xml-stylesheet type="text/xsl" href="../../texml2html.xsl"?>
 <log title="著作権" by="" slide="1" embed="1">
 <article>
-<h>著作権</h>
+<s h="著作権">
 <frame title="\insertsection">
 <block class="example">
 身近な場面で<alert>著作権</alert>が関係します!
@@ -31,30 +31,18 @@
 </block>
 </frame>
 
-<!--
-<h>法律の構成</h>
-<frame title="\insertsection">
-<block>
-だいたいの法律は下記の構成
-<ul>
-	<li>第1条: その法律が作られた「目的」</li>
-	<li>第2条: 条文で使う用語の「定義」</li>
-	<li>(法律の具体的内容)</li>
-	<li>後ろの方: 条文に違反したときの「罰則」</li>
-	<li>最後: 「附則」(改正した法律をいつから施行するか、改正前後の移行期間の措置など)</li>
-</ul>
-</block>
-</frame>-->
 
 
-<h>著作権法</h>
-<hh>総則(第1章)</hh>
+
+</s>
+<s h="著作権法">
+<s h="総則(第1章)">
 <frame title="\insertsection">
 <block title="目的(第1条)" class="alert">
 この法律は、著作物並びに実演、レコード、放送及び有線放送に関し著作者の権利及びこれに隣接する権利を定め、これらの文化的所産の<alert>公正な利用に留意</alert>しつつ、<alert>著作者等の権利の保護</alert>を図り、もつて<em>文化の発展に寄与</em>することを目的とする。
 </block>
 
-<img src="slide-copyright-tradeoff.svg" scale=".75" n="fig:purpose" title="著作権法の目的" />
+<img src="slide-copyright-tradeoff.svg" scale=".75" n="fig:purpose" title="著作権法の目的"/>
 </frame>
 
 <frame title="\insertsection">
@@ -73,8 +61,9 @@
 </frame>
 
 
-<hh>著作者の権利(第2章)</hh>
-<hhh>総則(第1節)</hhh>
+</s>
+<s h="著作者の権利(第2章)">
+<s h="総則(第1節)">
 <frame title="\insertsubsection">
 <block title="著作物の例示(第10条)" class="example">
 この法律にいう著作物を例示すると、おおむね次のとおりである。
@@ -103,30 +92,32 @@
 </block>
 
 <multicols num="2">
-<img src="slide-copyright-map1.png" scale=".23" n="fig:map1" title="国土地理院地形図" />
-<img src="slide-copyright-map2.png" scale=".23" n="fig:map2" title="マピオンの地図" />
+<img src="slide-copyright-map1.png" scale=".23" n="fig:map1" title="国土地理院地形図"/>
+<img src="slide-copyright-map2.png" scale=".23" n="fig:map2" title="マピオンの地図"/>
 </multicols>
 </frame>
 
 
-<hhh>権利の内容(第3節)</hhh>
+</s>
+<s h="権利の内容(第3節)">
 <frame title="\insertsubsection">
 <block title="著作者の権利(第17条)">
-著作者は、次条第一項、第十九条第一項及び第二十条第一項に規定する権利(以下「<alert>著作者人格権</alert>」という。)並びに第二十一条から第二十八条までに規定する権利(以下「<alert>著作権</alert>」という。)を享有する。<br />
+著作者は、次条第一項、第十九条第一項及び第二十条第一項に規定する権利(以下「<alert>著作者人格権</alert>」という。)並びに第二十一条から第二十八条までに規定する権利(以下「<alert>著作権</alert>」という。)を享有する。<br/>
 2 著作者人格権及び著作権の享有には、いかなる方式の履行をも要しない。
 </block>
 
-<img src="slide-copyright-rights.svg" scale=".6" n="fig:rights" title="著作者の権利" />
+<img src="slide-copyright-rights.svg" scale=".6" n="fig:rights" title="著作者の権利"/>
 </frame>
 
-<hhh>著作者人格権</hhh>
+</s>
+<s h="著作者人格権">
 <frame title="\insertsubsubsection">
 <block title="公表権(第18条)" class="example">
 著作者は、その著作物でまだ公表されていないもの(...)を公衆に提供し、又は提示する権利を有する。
 </block>
 
 <block title="氏名表示権(第19条)" class="example">
-著作者は、その著作物の原作品に、又はその著作物の公衆への提供若しくは提示に際し、その<em>実名若しくは変名を著作者名として表示し、又は著作者名を表示しないこととする権利</em>を有する。<br />
+著作者は、その著作物の原作品に、又はその著作物の公衆への提供若しくは提示に際し、その<em>実名若しくは変名を著作者名として表示し、又は著作者名を表示しないこととする権利</em>を有する。<br/>
 ※変名: ペンネーム、ハンドルネームのこと。
 </block>
 
@@ -135,10 +126,11 @@
 </block>
 </frame>
 
-<hhh>著作権</hhh>
+</s>
+<s h="著作権">
 <frame title="\insertsubsubsection">
 <block title="複製権(第21条)" class="example">
-著作者は、その著作物を<alert>複製する権利</alert>を<em>専有</em>する。<br />
+著作者は、その著作物を<alert>複製する権利</alert>を<em>専有</em>する。<br/>
 ※専有: その人だけが持っている(他人は持っていない)ということ。
 </block>
 
@@ -166,7 +158,8 @@
 </block>
 </frame>
 
-<hhh>著作権の制限</hhh>
+</s>
+<s h="著作権の制限">
 <frame title="\insertsubsection">
 <block title="私的使用のための複製(第30条)">
 著作権の目的となつている著作物(...)は、<em>個人的に又は家庭内その他これに準ずる限られた範囲内において使用すること</em>(以下「<alert>私的使用</alert>」という。)<em>を目的とするときは、次に掲げる場合を除き、その使用する者が複製することができる</em>。
@@ -177,7 +170,7 @@
 </ol>
 </block>
 
-<img src="slide-copyright-copy.svg" scale=".6" n="fig:copy" title="私的使用のための複製" />
+<img src="slide-copyright-copy.svg" scale=".6" n="fig:copy" title="私的使用のための複製"/>
 </frame>
 
 <frame title="\insertsubsection">
@@ -199,7 +192,8 @@
 </frame>
 
 
-<hhh>保護期間(第4節)</hhh>
+</s>
+<s h="保護期間(第4節)">
 <frame title="\insertsubsubsection">
 <block title="保護期間の原則(第51条)">
 著作権の存続期間は、著作物の創作の時に始まる。<br/>
@@ -212,7 +206,9 @@
 </frame>
 
 
-<hh>権利侵害(第7章)/罰則(第8章)</hh>
+</s>
+</s>
+<s h="権利侵害(第7章)/罰則(第8章)">
 <frame title="\insertsubsection">
 <block title="差止請求権(第112条)">
 著作者、著作権者、出版権者、実演家又は著作隣接権者は、その著作者人格権、著作権、出版権、実演家人格権又は著作隣接権を<em>侵害する者又は侵害するおそれがある者に対し、その侵害の停止又は予防を請求することができる</em>。
@@ -231,7 +227,9 @@
 </frame>
 
 
-<h>まとめ</h>
+</s>
+</s>
+<s h="まとめ">
 <frame title="\insertsection">
 <block>
 <ul>
@@ -242,5 +240,6 @@
 </ul>
 </block>
 </frame>
+</s>
 </article>
 </log>
