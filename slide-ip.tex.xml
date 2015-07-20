@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="../../texml2html.xsl"?>
+<log title="知的財産権" by="" slide="1" embed="1">
+<article>
+<s h="知的財産権">
+<frame title="\insertsection">
+<block title="知的財産権">
+人間の知的活動により生み出された<em>知的財産</em>に与えられる権利
+<ul>
+	<li><alert>著作権</alert>: <em>表現</em>を保護(著作権法)</li>
+	<li><alert>特許権、実用新案権</alert>: <em>アイデア(発明)</em>を保護(特許法、実用新案法)</li>
+	<li><alert>意匠権</alert>: <em>デザイン</em>を保護(意匠法)</li>
+	<li><alert>商標権</alert>: <em>ロゴマーク</em>を保護(商標法)</li>
+	<li mark="※">著作権以外は、特許庁が判断・管理</li>
+</ul>
+</block>
+
+<img src="slide-ip-ipod.svg" scale=".5" title="iPod nano(5th)" n="fig:ipod"/>
+</frame>
+
+<frame title="\insertsection">
+<block title="特許(patent)">
+特許が認められると…
+<ul>
+	<li>他の人はその発明を勝手に使えなくなる</li>
+	<li>発明を使いたい人は、<em>特許使用料</em>(royalty)を払う</li>
+	<li mark="※"><alert>r</alert>oyalty: 王権、王族、特許使用料; <alert>l</alert>oyalty: 忠誠、忠実</li>
+	<li>権利は最長20年間持続</li>
+</ul>
+</block>
+
+<img src="slide-ip-tradeoff.svg" scale=".75" title="権利者と利用者の関係" n="fig:tradeoff"/>
+</frame>
+
+<frame title="\insertsection">
+<block title="特許要件" class="alert">
+「良いアイデア(発明)」の条件
+<ul>
+	<li><alert>新規性</alert><br/>
+		その発明が<em>既に知られていたり、公開されていたりしない</em>こと</li>
+	<li><alert>進歩性</alert><br/>
+		その発明の属する分野での<em>専門家でも、容易に発明できない</em>こと</li>
+</ul>
+</block>
+</frame>
+
+<frame title="\insertsection">
+<block title="新規性・進歩性" class="example">
+↓のキャラクター、萌えますか?
+</block>
+
+<img src="slide-ip-imamoe1.png" scale=".2" title="あるキャラクター" n="fig:imamoe0"/>
+</frame>
+
+<frame title="\insertsection">
+<block title="グループワーク" class="example">
+「いまいち萌えない娘」の改善案を考える
+<ul>
+	<li>外見を変えてみたり、設定を足してみたり、...</li>
+	<li><em>新規性と進歩性のある改善案</em>を各班で考えてください</li>
+	<li mark="※">単に奇抜なだけのアイデアではなく、<alert>「萌える」ことが大前提</alert>です!</li>
+</ul>
+
+</block>
+
+<img src="slide-ip-imamoe1.png" scale=".2" title="いまいち萌えない娘" n="fig:imamoe1"/>
+</frame>
+
+<frame title="\insertsection">
+<img src="slide-ip-imamoe2.jpg" scale=".25" title="いまいち萌えない娘(全身)" n="fig:imamoe2"/>
+</frame>
+
+
+</s>
+<s h="まとめ">
+<frame title="\insertsection">
+<block>
+<ul>
+	<li>著作権法・特許法などの知財法は、権利者と利用者の間にある<em>trade-off関係</em>を調整している</li>
+	<li>こうしたtrade-off関係が生じるのは、現代を生きる人びとの<em>価値観が多様</em>(機能的分化社会)だから</li>
+	<li><alert>成果メディアは、人々の間で異なる価値観を調整し、社会が円滑に進むよう統制</alert>する</li>
+</ul>
+</block>
+</frame>
+</s>
+</article>
+</log>

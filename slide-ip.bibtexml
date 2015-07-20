@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="../../bibtexml2html.xsl"?>
+<file xmlns="http://bibtexml.sf.net/">
+
+<entry id="userblue"><misc>
+	<author>OpenClipart</author>
+	<title>user_blue.svg</title>
+	<url>http://www.clker.com/clipart-2491.html</url>
+</misc></entry>
+
+<entry id="usermulti"><misc>
+	<author>OpenClipart</author>
+	<title>user_multi.svg</title>
+	<url>http://www.clker.com/clipart-2492.html</url>
+</misc></entry>
+
+<entry id="imamoe"><misc>
+	<author>いまもえ</author>
+	<title>slide-ip-imamoe*</title>
+	<url>http://imamoe.jp/kobeimamoe/</url>
+</misc></entry>
+
+<entry id="ipod"><misc>
+	<author>Apple iPod nano 第5世代 16GB 最新モデル - Amazon</author>
+	<title>ipod.jpg</title>
+	<url>http://www.amazon.co.jp/dp/B002OB3FJ6</url>
+</misc></entry>
+
+</file>
