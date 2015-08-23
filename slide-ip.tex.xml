@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <?xml-stylesheet type="text/xsl" href="../../texml2html.xsl"?>
-<log title="知的財産権" by="" slide="1" embed="1">
+<log title="知的財産権" by="" slide="1" embed="1" bib="slide-ip" biball="1">
 <article>
 <s h="知的財産権">
 <frame title="\insertsection">
@@ -43,35 +43,8 @@
 </ul>
 </block>
 </frame>
-
-<!--<frame title="\insertsection">
-<block title="新規性・進歩性" class="example">
-↓のキャラクター、萌えますか?
-</block>
-
-<img src="slide-ip-imamoe1.png" scale=".2" title="あるキャラクター" n="fig:imamoe0"/>
-</frame>
-
-<frame title="\insertsection">
-<block title="グループワーク" class="example">
-「いまいち萌えない娘」の改善案を考える
-<ul>
-	<li>外見を変えてみたり、設定を足してみたり、...</li>
-	<li><em>新規性と進歩性のある改善案</em>を各班で考えてください</li>
-	<li mark="※">単に奇抜なだけのアイデアではなく、<alert>「萌える」ことが大前提</alert>です!</li>
-</ul>
-
-</block>
-
-<img src="slide-ip-imamoe1.png" scale=".2" title="いまいち萌えない娘" n="fig:imamoe1"/>
-</frame>
-
-<frame title="\insertsection">
-<img src="slide-ip-imamoe2.jpg" scale=".25" title="いまいち萌えない娘(全身)" n="fig:imamoe2"/>
-</frame>-->
-
-
 </s>
+
 <s h="まとめ">
 <frame title="\insertsection">
 <block>
