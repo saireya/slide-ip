@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <?xml-stylesheet type="text/xsl" href="../../texml2html.xsl"?>
-<log title="著作権" by="" slide="1" embed="1">
+<log title="著作権" by="" slide="1" embed="1" bib="slide-copyright" biball="1">
 <article>
 <s h="著作権">
 <frame title="\insertsection">
