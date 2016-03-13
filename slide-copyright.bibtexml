@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="../../bibtexml2html.xsl"?>
+<file xmlns="http://bibtexml.sf.net/">
+
+<entry id="map1"><misc>
+	<author>国土地理院</author>
+	<title>地理院地図</title>
+	<url>http://maps.gsi.go.jp/#16/34.984612/135.758347</url>
+</misc></entry>
+
+<entry id="map2"><misc>
+	<author>マピオン</author>
+	<title>京都府京都市下京区東塩小路釜殿町の地図</title>
+	<url>http://www.mapion.co.jp/m2/34.98519682,135.7589967,17</url>
+</misc></entry>
+
+</file>
