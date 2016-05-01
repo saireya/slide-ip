@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <?xml-stylesheet type="text/xsl" href="../../texml2html.xsl"?>
-<log title="知的財産権" by="" slide="1" embed="1" bib="slide-ip" biball="1">
+<log title="知的財産" by="" slide="1" embed="1" bib="slide-ip" biball="1">
 <article>
 <s h="知的財産権">
 <frame title="\insertsection">
@@ -31,10 +31,22 @@
 
 <img src="slide-ip-tradeoff.svg" scale=".75" title="権利者と利用者の関係" n="fig:tradeoff"/>
 </frame>
+</s>
+
+<s h="アイデア">
+<frame title="\insertsection">
+<block title="アイデア" class="alert">
+	<alert>アイデア</alert>とは<em>既存の要素の新しい組み合わせ</em>以外の何ものでもない<br/>
+	(James. W. Young『アイデアのつくり方』より)
+	<ul>
+		<li mark="⇒">事物の<alert>関連性</alert>を見つけ出す</li>
+	</ul>
+</block>
+</frame>
 
 <frame title="\insertsection">
 <block title="特許要件" class="alert">
-「良いアイデア(発明)」の条件
+「良いアイデア(発明)」の条件(特許法より)
 <ul>
 	<li><alert>新規性</alert><br/>
 		その発明が<em>既に知られていたり、公開されていたりしない</em>こと</li>
@@ -42,6 +54,30 @@
 		その発明の属する分野での<em>専門家でも、容易に発明できない</em>こと</li>
 </ul>
 </block>
+</frame>
+
+<frame title="\insertsection">
+<block title="Q." class="example">
+	あなたが所属している「組織」を列挙せよ
+	<ul>
+		<li mark="※">ここでいう「組織」は、「あなたがよくコミュニケーションする集団」という意味</li>
+	</ul>
+</block>
+</frame>
+
+<frame title="\insertsection">
+<block title="「個性」">
+	<em>個性</em>: 個人の所属する組織をすべて除いた、その人に固有の部分
+<!--	<ul>
+		<li><em>個性</em>: 個人の所属する組織をすべて除いた、その人に固有の部分</li>
+		<li><em>人格</em>: その人が他者とのコミュニケーションにおいてどう扱われるか</li>
+	</ul>-->
+</block>
+<img src="personality-color.svg" scale=".5"/>
+</frame>
+
+<frame title="\insertsection">
+<img src="personality-babymetal.svg" scale=".5"/>
 </frame>
 </s>
 
