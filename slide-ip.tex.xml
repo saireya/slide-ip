@@ -167,7 +167,7 @@
 </ul>
 </block>
 
-<multicols num="2">
+<multicols flex="1">
 <img src="slide-copyright-map1.png" scale=".23" n="fig:map1" title="国土地理院地形図"/>
 <img src="slide-copyright-map2.png" scale=".23" n="fig:map2" title="マピオンの地図"/>
 </multicols>
