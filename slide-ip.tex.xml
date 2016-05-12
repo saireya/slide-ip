@@ -35,16 +35,6 @@
 
 <s h="創発">
 <frame title="\insertsection">
-<block title="アイデア" class="alert">
-	<alert>アイデア</alert>とは「<em>既存の要素の新しい組み合わせ</em>」<br/>
-	(James W. Young『アイデアのつくり方』(1940)より)
-	<ul>
-		<li mark="⇒">事物の<alert>関連性</alert>を見つけ出す</li>
-	</ul>
-</block>
-</frame>
-
-<frame title="\insertsection">
 <block title="特許要件" class="alert">
 「良いアイデア(発明)」の条件(特許法より)
 <ul>
@@ -53,6 +43,16 @@
 	<li><alert>進歩性</alert><br/>
 		その発明の属する分野での<em>専門家でも、容易に発明できない</em>こと</li>
 </ul>
+</block>
+</frame>
+
+<frame title="\insertsection">
+<block title="アイデア" class="alert">
+	<alert>アイデア</alert>とは「<em>既存の要素の新しい組み合わせ</em>」<br/>
+	(James W. Young『アイデアのつくり方』(1940)より)
+	<ul>
+		<li mark="⇒">事物の<alert>関連性</alert>を見つけ出す</li>
+	</ul>
 </block>
 </frame>
 
