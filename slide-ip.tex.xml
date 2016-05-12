@@ -47,6 +47,12 @@
 </frame>
 
 <frame title="\insertsection">
+<block title="Q." class="example">
+	「アイデア」とは何か?
+</block>
+</frame>
+
+<frame title="\insertsection">
 <block title="アイデア" class="alert">
 	<alert>アイデア</alert>とは「<em>既存の要素の新しい組み合わせ</em>」<br/>
 	(James W. Young『アイデアのつくり方』(1940)より)
