@@ -179,6 +179,12 @@
 </multicols>
 </frame>
 
+<frame title="\insertsubsection">
+<block title="Q." class="example">
+	GW課題に個別に取り組む
+</block>
+</frame>
+
 
 </s>
 <s h="権利の内容(第3節)">
@@ -291,7 +297,11 @@
 </block>
 </frame>
 
-
+<frame title="\insertsubsection">
+<block title="Q." class="example">
+	GW課題に班で取り組む
+</block>
+</frame>
 </s>
 </s>
 <s h="権利侵害(第7章)/罰則(第8章)">
