@@ -122,7 +122,7 @@
 <s h="総則(第1章)">
 <frame title="\insertsection">
 <block title="目的(第1条)" class="alert">
-この法律は、著作物並びに実演、レコード、放送及び有線放送に関し著作者の権利及びこれに隣接する権利を定め、これらの文化的所産の<alert>公正な利用に留意</alert>しつつ、<alert>著作者等の権利の保護</alert>を図り、もつて<em>文化の発展に寄与</em>することを目的とする。
+この法律は、著作物並びに実演、レコード、放送及び有線放送に関し著作者の権利及びこれに隣接する権利を定め、これらの文化的所産の<em>公正な利用に留意</em>しつつ、<em>著作者等の権利の保護</em>を図り、もつて<alert>文化の発展に寄与</alert>することを目的とする。
 </block>
 
 <img src="slide-copyright-tradeoff.svg" scale=".75" n="fig:purpose" title="著作権法の目的"/>
