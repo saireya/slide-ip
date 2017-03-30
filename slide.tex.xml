@@ -4,6 +4,12 @@
 <article>
 <s h="創発">
 <frame title="\insertsection">
+<block title="創発(emergence)">
+それまで存在しなかった<alert>新たな情報が生まれる</alert>現象
+</block>
+</frame>
+
+<frame title="\insertsection">
 <block title="知的財産権">
 人間の知的活動により生み出された<alert>知的財産</alert>に与えられる権利
 <ul>
@@ -19,6 +25,10 @@
 </frame>
 
 <frame title="\insertsection">
+<img src="law-ip.svg" scale=".5"/>
+</frame>
+
+<frame title="\insertsection">
 <block title="特許(patent)">
 特許が認められると…
 <ul>
@@ -31,9 +41,7 @@
 
 <img src="slide-ip-tradeoff.svg" scale=".75" title="権利者と利用者の関係" n="fig:tradeoff"/>
 </frame>
-</s>
 
-<s h="創発">
 <frame title="\insertsection">
 <block title="特許要件" class="alert">
 「良いアイデア(発明)」の条件(特許法より)
