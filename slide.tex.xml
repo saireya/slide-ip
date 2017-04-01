@@ -1,30 +1,27 @@
 <?xml version="1.0" encoding="utf-8"?>
 <?xml-stylesheet type="text/xsl" href="../../texml2html.xsl"?>
-<log title="創発" by="" slide="1" embed="1" bib="slide" biball="1">
+<log title="創発" by="" slide="1" embed="1" bib="slide" biball="1" xmlns:xi="http://www.w3.org/2003/XInclude">
 <article>
 <s h="創発">
 <frame title="\insertsection">
 <block title="創発(emergence)">
-それまで存在しなかった<alert>新たな情報が生まれる</alert>現象
+それまで存在しなかった<alert>新たな情報(アイデア)が生まれる</alert>現象
+</block>
+
+<block title="Q." class="example">
+	「アイデア」とは何か?
 </block>
 </frame>
 
 <frame title="\insertsection">
-<block title="知的財産権">
-人間の知的活動により生み出された<alert>知的財産</alert>に与えられる権利
-<ul>
-	<li><alert>特許権、実用新案権</alert>: <em>アイデア(発明)</em>を保護(特許法、実用新案法)</li>
-	<li><alert><ruby r="いしょう">意匠</ruby>権</alert>: <em>デザイン</em>を保護(意匠法)</li>
-	<li><alert>商標権</alert>: <em>ロゴマーク</em>を保護(商標法)</li>
-	<li><alert>著作権</alert>: <em>表現</em>を保護(著作権法)</li>
-	<li mark="※">著作権以外は、特許庁が判断・管理</li>
-</ul>
+<block title="知的財産権" xml:id="law-ip">
+人間の<em>創造的活動</em>により生み出された<alert>知的財産</alert>に与えられる権利
 </block>
-
 <img src="frixion.svg" scale=".5"/>
 </frame>
 
 <frame title="\insertsection">
+<xi:include xpointer="xpointer(id('law-ip'))"/>
 <img src="law-ip.svg" scale=".5"/>
 </frame>
 
@@ -55,17 +52,20 @@
 </frame>
 
 <frame title="\insertsection">
-<block title="Q." class="example">
-	「アイデア」とは何か?
-</block>
-</frame>
-
-<frame title="\insertsection">
 <block title="アイデア" class="alert">
 	<alert>アイデア</alert>とは「<em>既存の要素の新しい組み合わせ</em>」<br/>
 	(James W. Young『アイデアのつくり方』(1940)より)
 	<ul>
 		<li mark="⇒">事物の<alert>関連性</alert>を見つけ出す</li>
+	</ul>
+</block>
+</frame>
+
+<frame title="\insertsection">
+<block title="Q." class="example">
+	組み合わせにより新たな価値を生み出した事例を挙げよ
+	<ul>
+		<li mark="※">ここでいう「組織」は、「あなたがよくコミュニケーションする集団」という意味</li>
 	</ul>
 </block>
 </frame>
