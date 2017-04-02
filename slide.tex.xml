@@ -17,12 +17,12 @@
 <block title="知的財産権" xml:id="law-ip">
 人間の<em>創造的活動</em>により生み出された<alert>知的財産</alert>に与えられる権利
 </block>
-<img src="frixion.svg" scale=".5"/>
+<img src="frixion.svg" scale=".75"/>
 </frame>
 
 <frame title="\insertsection">
 <xi:include xpointer="xpointer(id('law-ip'))"/>
-<img src="law-ip.svg" scale=".5"/>
+<img src="law-ip.svg" scale=".4"/>
 </frame>
 
 <frame title="\insertsection">
