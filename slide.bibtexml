@@ -2,18 +2,6 @@
 <?xml-stylesheet type="text/xsl" href="../../bibtexml2html.xsl"?>
 <file xmlns="http://bibtexml.sf.net/">
 
-<entry id="userblue"><misc>
-	<author>OpenClipart</author>
-	<title>user\_blue.svg</title>
-	<url>http://www.clker.com/clipart-2491.html</url>
-</misc></entry>
-
-<entry id="usermulti"><misc>
-	<author>OpenClipart</author>
-	<title>user\_multi.svg</title>
-	<url>http://www.clker.com/clipart-2492.html</url>
-</misc></entry>
-
 <entry id="frixion"><misc>
 	<author>PILOT</author>
 	<title>こすると消えるフリクション</title>
