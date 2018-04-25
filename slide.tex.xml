@@ -4,70 +4,6 @@
 <article>
 <s h="創発">
 <frame title="\insertsection">
-<block title="創発(emergence)">
-それまで存在しなかった<alert>新たな情報(アイデア)が生まれる</alert>現象
-</block>
-
-<block title="Q." class="example">
-	「アイデア」とは何か?
-</block>
-</frame>
-
-<frame title="\insertsection">
-<block title="知的財産権" xml:id="law-ip">
-人間の<em>創造的活動</em>により生み出された<alert>知的財産</alert>に与えられる権利
-</block>
-<img src="frixion.svg" scale=".75"/>
-</frame>
-
-<frame title="\insertsection">
-<xi:include xpointer="xpointer(id('law-ip'))"/>
-<img src="law-ip.svg" scale=".4"/>
-</frame>
-
-<frame title="\insertsection">
-<block title="特許(patent)">
-特許が認められると…
-<ul>
-	<li>他の人はその発明を勝手に使えなくなる</li>
-	<li>発明を使いたい人は、<em>特許使用料</em>(royalty)を払う</li>
-	<li mark="※"><alert>r</alert>oyalty: 王権、王族、特許使用料; <alert>l</alert>oyalty: 忠誠、忠実</li>
-	<li>権利は最長20年間持続</li>
-</ul>
-</block>
-
-<img src="slide-ip-tradeoff.svg" scale=".75" title="権利者と利用者の関係" n="fig:tradeoff"/>
-</frame>
-
-<frame title="\insertsection">
-<block title="特許要件" class="alert">
-「良いアイデア(発明)」の条件(特許法より)
-<ul>
-	<li><alert>新規性</alert><br/>
-		その発明が<em>既に知られていたり、公開されていたりしない</em>こと</li>
-	<li><alert>進歩性</alert><br/>
-		その発明の属する分野での<em>専門家でも、容易に発明できない</em>こと</li>
-</ul>
-</block>
-</frame>
-
-<frame title="\insertsection">
-<block title="アイデア" class="alert">
-	<alert>アイデア</alert>とは「<em>既存の要素の新しい組み合わせ</em>」<br/>
-	(James W. Young『アイデアのつくり方』(1940)より)
-	<ul>
-		<li mark="⇒">事物の<alert>関連性</alert>を見つけ出す</li>
-	</ul>
-</block>
-</frame>
-
-<frame title="\insertsection">
-<block title="Q." class="example">
-	組み合わせにより新たな価値を生み出した事例を挙げよ
-</block>
-</frame>
-
-<frame title="\insertsection">
 <block title="Q." class="example">
 	あなたが所属している「組織」を列挙せよ
 	<ul>
@@ -88,11 +24,41 @@
 </frame>
 
 <frame title="\insertsection">
+<block title="創発(emergence)">
+それまで存在しなかった<alert>新たな情報(アイデア)が生まれる</alert>現象
+</block>
+</frame>
+
+<frame title="\insertsection">
+<block title="アイデア" class="alert">
+	<alert>アイデア</alert>とは「<em>既存の要素の新しい組み合わせ</em>」<br/>
+	(James W. Young『アイデアのつくり方』(1940)より)
+	<ul>
+		<li mark="⇒">事物の<alert>関連性</alert>を見つけ出す</li>
+	</ul>
+</block>
+</frame>
+
+<frame title="\insertsection">
+<block title="Q." class="example">
+	組み合わせにより新たな価値を生み出した事例を挙げよ
+</block>
+</frame>
+
+<frame title="\insertsection">
 <img src="personality-3776s3.svg" scale=".7"/>
 </frame>
 
 <frame title="\insertsection">
-<img src="personality-3776s4.svg" scale=".75"/>
+<block title="知的財産権" xml:id="law-ip">
+人間の<em>創造的活動</em>により生み出された<alert>知的財産</alert>に与えられる権利
+</block>
+<img src="frixion.svg" scale=".75"/>
+</frame>
+
+<frame title="\insertsection">
+<xi:include xpointer="xpointer(id('law-ip'))"/>
+<img src="law-ip.svg" scale=".4"/>
 </frame>
 </s>
 
