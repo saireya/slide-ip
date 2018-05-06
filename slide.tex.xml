@@ -37,6 +37,10 @@
 		<li mark="⇒">事物の<alert>関連性</alert>を見つけ出す</li>
 	</ul>
 </block>
+
+<block title="イノベーション" class="alert">
+	「新結合(new combination)の遂行」(Schumpeter『経済発展の理論』)<br/>
+</block>
 </frame>
 
 <frame title="\insertsection">
@@ -49,6 +53,28 @@
 <img src="personality-3776s3.svg" scale=".7"/>
 </frame>
 
+<frame title="\insertsection">
+<block title="水平思考と垂直思考">
+	「一つの穴をどんどん深く掘り進めても、別の場所に穴を開けることはできない」<br/>
+	(de Bono『水平思考の世界』)
+	<ul>
+		<li><alert>Vertical thinking</alert> is used to <em>dig the same hole deeper</em>.</li>
+		<li><alert>Lateral thinking</alert> is used to <em>dig a hole in a different place</em>.</li>
+	</ul>
+</block>
+<img src="search.svg" scale=".5"/>
+</frame>
+
+<frame title="\insertsection">
+<block title="問題" class="alert">
+	<alert>目標とする状態</alert>(To-Be)と<alert>現在の状態</alert>(As-Is)の間に<em>差</em>があること<br/>
+	(H. A. Simon『システムの科学』)
+</block>
+<img src="problem.svg" scale=".5"/>
+</frame>
+</s>
+
+<s h="知的財産">
 <frame title="\insertsection">
 <block title="知的財産権" xml:id="law-ip">
 人間の<em>創造的活動</em>により生み出された<alert>知的財産</alert>に与えられる権利
