@@ -98,6 +98,27 @@
 </frame>
 
 <frame title="\insertsection">
+<multicols>
+	<column width="6cm">
+	<block title="SCAMPER: 水平思考の方法集(framework)">
+		<ol>
+			<li>Substitute</li>
+			<li>Combine</li>
+			<li>Adapt</li>
+			<li>Modify</li>
+			<li>Put other purposes</li>
+			<li>Eliminate</li>
+			<li>Reverse / Rearrenge</li>
+		</ol>
+	</block>
+	</column>
+	<column width="6cm">
+	<img src="alpha.jpg" scale=".1"/>
+	</column>
+</multicols>
+</frame>
+
+<frame title="\insertsection">
 <block title="問題" class="alert">
 	<alert>目標とする状態</alert>(To-Be)と<alert>現在の状態</alert>(As-Is)の間に<em>差</em>があること<br/>
 	(H. A. Simon『システムの科学』)
