@@ -125,6 +125,27 @@
 </block>
 <img src="problem.svg" scale=".5"/>
 </frame>
+
+<frame title="Work: 問題定義">
+<block title="目的" class="alert">
+	問題に対して目標の状態(To-Be)と現在の状態(As-Is)を定義することで、<strong>問題を明確化</strong>し<em>解決を促す</em>
+</block>
+
+<multicols>
+	<column width="7cm">
+		<block title="手順">
+			次の「問題」について、「目標の状態」と「現在の状態」を記述する
+			<ol>
+				<li><em>各自がいま抱えている「問題」</em></li>
+				<li><em>学習合宿で各自が扱ったテーマ</em></li>
+			</ol>
+		</block>
+	</column>
+	<column width="4.5cm">
+		<img src="problem.svg" scale=".5"/>
+	</column>
+</multicols>
+</frame>
 </s>
 
 <s h="知的財産">
