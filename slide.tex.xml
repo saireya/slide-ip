@@ -181,11 +181,11 @@
 <ul>
 	<li>著作権法の目的(第1条)</li>
 	<li>著作物(第10条)</li>
-	<li>グループワーク(1)</li>
+	<li>Work 1</li>
 	<li>著作権(第17-29条)</li>
 	<li>著作権の制限(第30-50条)</li>
 	<li>保護期間(第51-58条)</li>
-	<li>グループワーク(2)</li>
+	<li>Work 2</li>
 	<li>権利侵害・罰則(第112-124条)</li>
 </ul>
 </block>
@@ -254,9 +254,16 @@
 </multicols>
 </frame>
 
-<frame title="\insertsubsection">
-<block title="Q." class="example">
-	GW課題に個別に取り組む
+<frame title="Work: 著作権(1)">
+<block title="目的" class="alert">
+	各自の直感が著作権法上の条項とどの程度一致するか確認する
+</block>
+
+<block title="手順">
+	GW課題の各設問の行為が著作権を侵害するか否か、各自の直感で回答する
+	<ul>
+		<li mark="※">各設問の中身は後でじっくり吟味するので、とりあえず直感で回答してよい</li>
+	</ul>
 </block>
 </frame>
 
@@ -372,10 +379,22 @@
 </block>
 </frame>
 
-<frame title="\insertsubsection">
-<block title="Q." class="example">
-	GW課題に班で取り組む
+<frame title="Work: 著作権(2)">
+<block title="目的" class="alert">
+	具体的な事例について、著作権法に基づいて違法性を判定できる
 </block>
+
+<block title="手順">
+	GW課題に班ごとに取り組んで結論を出し、結論に至る過程を文章化する
+	<ol>
+		<li>各班の番号に対応する設問について、当該行為が著作権を侵害するか否か判定する</li>
+		<li>結論に至る過程を文章化する</li>
+	</ol>
+</block>
+</frame>
+
+<frame title="Work: 著作権(2)">
+<img src="judgement.svg" scale=".4" n="fig:judgement" title="検討手順と解答例"/>
 </frame>
 </s>
 </s>
